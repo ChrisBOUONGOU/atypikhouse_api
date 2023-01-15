@@ -1,0 +1,8 @@
+# See full configuration: https://github.com/zenstruck/foundry#full-default-bundle-configuration
+zenstruck_foundry:
+    # Whether to auto-refresh proxies by default (https://github.com/zenstruck/foundry#auto-refresh)
+    auto_refresh_proxies: true
+
+    faker:
+        # Change the default faker locale.
+        locale: fr_FR
